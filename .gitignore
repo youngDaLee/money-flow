@@ -1,6 +1,11 @@
 *.csv
+
 !origin_corona_message_count.csv
+
 !some_corona_message_count.csv
+
 .vscode
+
 .ipynb_checkpoints
+
 __MACOSX
