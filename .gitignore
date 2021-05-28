@@ -4,8 +4,12 @@
 
 !some_corona_message_count.csv
 
-.vscode
+.vscode/
 
-.ipynb_checkpoints
+.ipynb_checkpoints/
 
-__MACOSX
+CSV/
+
+UTF8/
+
+__MACOSX/
